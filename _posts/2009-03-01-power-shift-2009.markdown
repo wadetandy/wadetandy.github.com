@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 40
+layout: post
+title: Power Shift 2009
+tags: []
+
+categories: 
+- slug: projects
+  title: Projects
+  autoslug: projects
+wordpress_url: http://wadetandy.com/?p=40
+---
+So I've spent this weekend at Power Shift 2009 at the DC Convention center.  If you don't know, this is a conference where 12,000 young people have come to promote and lobby for new legislation designed to move us to a greener society.  I have spent this weekend as part of the conference's new media team, producing the daily podcast of the conference ([find it here](http://www.powershift09.org/mediatools)), and it has been an incredible experience.Rarely does one see a group of people with such passion and excitement about what it is they are doing, and that is such a refreshing thing to see.  I have been recording the keynote speeches every night for the production of the podcast, and to see the reaction of 12,000 people to everything said is astounding.  Last night when Jessie Tolkan gave her speech, she challenged the crowd to get up and shout for change, and it is one of the most incredible crowd responses I have ever seen.  I urge everyone to check out the Power Shift website.  Watch the videos, read the blogs, and hope and pray that one day you are as excited about something as those I have met this weekend are about building a new, green economy.
